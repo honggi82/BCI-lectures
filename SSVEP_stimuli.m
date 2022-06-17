@@ -50,9 +50,9 @@ while (1)
     % Generating the stimulus image
     for s=1:size(stim_pos,1)
         if sig(s,t)==0
-            stim(x_st(s):x_st(s)+sz_pt(2)-1,y_st(s):y_st(s)+sz_pt(3)-1)=pattern_up(1,:,:);
+            stim(y_st(s):y_st(s)+sz_pt(3)-1,x_st(s):x_st(s)+sz_pt(2)-1)=pattern_up(1,:,:);
         else
-            stim(x_st(s):x_st(s)+sz_pt(2)-1,y_st(s):y_st(s)+sz_pt(3)-1)=pattern_up(2,:,:);
+            stim(y_st(s):y_st(s)+sz_pt(3)-1,x_st(s):x_st(s)+sz_pt(2)-1)=pattern_up(2,:,:);
         end
     end
     
