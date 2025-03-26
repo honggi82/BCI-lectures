@@ -1,6 +1,6 @@
 # Introduction to Brain-Computer Interfaces (뇌-컴퓨터 인터페이스 강의)
 
-**조선대학교 전자공학과 염홍기 교수**의 "[Introduction to Brain-Computer Interfaces](https://www.youtube.com/watch?v=주소)" 강의 영상과 관련된 코드 저장소입니다.
+**조선대학교 전자공학과 염홍기 교수**의 "[Introduction to Brain-Computer Interfaces](https://www.youtube.com/watch?v=Ox-LX4QvrWM&list=PLiut5PtK_nRwWwZXBZB1GHzzPCI_M8LiK)" 강의 영상과 관련된 코드 저장소입니다.
 
 ## 강의 소개
 
